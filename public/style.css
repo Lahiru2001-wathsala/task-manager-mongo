@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: white;
+    background: rgb(221, 95, 12);
     width: 450px;
     padding: 25px;
     border-radius: 12px;
